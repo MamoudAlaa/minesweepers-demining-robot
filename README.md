@@ -12,8 +12,8 @@ Built by **E-JUST Robotics Club (Team B)**, this rugged-terrain mobile robot was
 
 <table>
   <tr>
-    <td align="center"><img src="images/team_b_robot_trophy.jpg" width="380" alt="E-JUST Team B with robot and Promising Team trophy"/><br><em>E-JUST Team B with the 4WD demining robot & Promising Team trophy</em></td>
     <td align="center"><img src="images/arena_field_testing.jpg" width="380" alt="Field testing on the minefield grid"/><br><em>Live arena telemetry & minefield testing at Zewail City</em></td>
+    <td align="center"><img src="images/promising_team_trophy.jpg" width="380" alt="Minesweepers 2026 Promising Team Trophy"/><br><em>Minesweepers 2026 Promising Team Award Trophy</em></td>
   </tr>
 </table>
 
@@ -33,10 +33,6 @@ The complete 3D assembly (`CAD/Assem1.SLDASM`) is designed in **SOLIDWORKS** aro
 - **4th Place Overall** — National Academia Category, Minesweepers Egypt 2026 (13th Edition)
 - **Promising Team Special Award** — E-JUST Team B
 
-<p align="center">
-  <img src="images/promising_team_trophy.jpg" width="360" alt="Minesweepers 2026 Promising Team Trophy"/>
-</p>
-
 ## Repository Structure
 
 ```
@@ -45,7 +41,6 @@ minesweepers-demining-robot/
 ├── LICENSE
 ├── images/
 │   ├── ejust_team_flags.jpg         # E-JUST Robotics Club delegation & robots
-│   ├── team_b_robot_trophy.jpg      # Team B with robot and trophy
 │   ├── arena_field_testing.jpg      # Minefield arena testing
 │   └── promising_team_trophy.jpg    # Minesweepers 2026 Promising Team trophy
 └── CAD/
